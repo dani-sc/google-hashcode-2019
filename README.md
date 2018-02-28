@@ -1,2 +1,2 @@
-# google-hashcode-2018
-Entry for Google Hashcode 2018.
+# google-hashcode-boilerplate
+Boilerplate for Google Hashcode.
