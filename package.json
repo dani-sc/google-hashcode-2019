@@ -1,0 +1,24 @@
+{
+  "name": "google-hashcode-2018",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "babel-node app.js",
+    "prepush": "eslint app __tests__ index.*.js"
+  },
+  "description": "Entry for Google Hashcode 2018.",
+  "main": "app.js",
+  "repository": "https://github.com/dani-sc/google-hashcode-2018.git",
+  "author": "Daniel Scheffknecht <daniel.scheffkn@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "dependencies": {
+    "zip-dir": "^1.0.2"
+  }
+}
