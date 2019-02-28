@@ -6,10 +6,10 @@ import writeOutput from './lib/writeOutput';
 
 const fileNames = [
   'a_example',
-  // 'b_lovely_landscapes',
-  // 'c_memorable_moments',
-  // 'd_pet_pictures',
-  // 'e_shiny_selfies',
+  'b_lovely_landscapes',
+  'c_memorable_moments',
+  'd_pet_pictures',
+  'e_shiny_selfies',
 ];
 
 function writeSourcesZipFile() {
